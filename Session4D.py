@@ -15,6 +15,7 @@ total_cases = 0
 
 while i < 5:
     total_cases += states[i]
-    i+=1
+    i += 2
 
-print(total_cases)
+
+print("total cases",total_cases)
